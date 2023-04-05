@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a15dc62ac19ca654fa2ecff1260b2fdf, type: 3}
+  m_Name: Collection
+  m_EditorClassIdentifier: 
+  FoV: 90
+  DoV: 100
+  vMax: 10
+  aPhysicalMax: 6.5654736
+  aMentalMax: 18.117167
+  slowDownDist: 5
+  spaceMin: 2
+  vToleranceMax: 2
+  vUpLimit: 3
+  dToleranceMax: 10
+  dUpLimit: 15
+  avoidDistance: 33.928562
+  boidNumber: 12
+  boidSpawnRange: 4.057
+  boidList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  destination: {x: 32.69553, y: 0.5038643, z: -29.77099}
